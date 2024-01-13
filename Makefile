@@ -1,6 +1,6 @@
 #Rubana Syeda
 #Tony Kusalik CMPT 214 (03)
-#A5q2
+
 
 .PHONY: clean librn all
 CFLAGS = -Wall -Wextra

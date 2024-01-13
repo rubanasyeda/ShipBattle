@@ -1,6 +1,5 @@
 //Rubana Syeda
 //Tony Kusalik CMPT 214 (03)
-//A5Q2
 
 //Macros
 #define RESULT_HIT 1 
